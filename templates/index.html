@@ -1,0 +1,15 @@
+{% extends "base.html" %} {% block content %}
+
+<div class="logo"><img class="img1" src="{{ url_for('static', filename='assets/frame 1.png') }}" alt="" /></div>
+<form class="form_container" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+      <label for="text" class="form-label">Enter string of words</label>
+      <input type="text" name="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+      <div id="" class="form-text">Please try to enter a complete sentence for the optimal output.</div>
+    </div>
+    <button type="submit" value="submit" class="button">View Analysis</button><br><br><br>
+    {{prediction_text_input}}<br>
+    {{prediction_text}}
+</form>
+
+{% endblock %}
