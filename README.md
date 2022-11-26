@@ -3,7 +3,7 @@ Sentiment analysis (or opinion mining) is a natural language processing (NLP) te
 # ToDo
 1. Trained H5 models and Flask UI are already included.
 2. Just need to install uitilits used in app.py and run python app.
-# Background of Models
+# Overview of ML Models
 <b>For Sentiment:</b><br>
 Tried-- 
 Bernoulli Naive Bayes (BernoulliNB),
