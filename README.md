@@ -13,5 +13,11 @@ Using--
 Logistic Regression (LR) <br><br>
 <b>For Pre-Processing:</b><br>
 Lower Casing, Replacing URLs, Replacing Emojis, Replacing Usernames, Removing Non-Alphabets, Removing Consecutive letters, Removing Short Words, Removing Stopwords, Lemmatizing.
+# SnapShots
+<div>
+<img src="images/Slice 1.png" float="left" width="100%" height="100%">
+<img src="images/Slice 2.png" float="left" width="100%" height="100%">
+<img src="images/Slice 3.png" float="left" width="100%" height="100%">
+</div>
 
 
